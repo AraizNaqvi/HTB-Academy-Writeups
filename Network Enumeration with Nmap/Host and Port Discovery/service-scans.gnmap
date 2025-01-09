@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Thu Jan  9 14:58:24 2025 as: nmap -sV --disable-arp-ping -n -Pn -oA service-scans 10.129.143.118
+Host: 10.129.143.118 ()	Status: Up
+Host: 10.129.143.118 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/, 110/open/tcp//pop3//Dovecot pop3d/, 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: WORKGROUP)/, 143/open/tcp//imap//Dovecot imapd (Ubuntu)/, 445/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: WORKGROUP)/, 31337/open/tcp//Elite?///	Ignored State: closed (993)
+# Nmap done at Thu Jan  9 15:01:32 2025 -- 1 IP address (1 host up) scanned in 187.90 seconds
